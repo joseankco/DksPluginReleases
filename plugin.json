@@ -10,7 +10,6 @@
     "eu.darkbot.ter.dks.tasks.LiveLogs",
     "eu.darkbot.ter.dks.tasks.LogScrapper",
     "eu.darkbot.ter.dks.behaviours.PalladiumStats"
-],
   ],
   "donation" : "https://www.paypal.me/joseankco",
   "download": "https://gist.github.com/joseankco/bbddd86e6f2c12cf2fe81658b579587f/raw/DksPlugin.jar",
