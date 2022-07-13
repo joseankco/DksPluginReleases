@@ -1,7 +1,7 @@
 # Log Scrapper
-The purpose of this task is to extract patterns of DarkBot log in order to get some stadistics, like occurrences of the pattern, occurrences per hour and more.
+The purpose of this task is to extract patterns of DarkOrbit log in order to get some stadistics, like occurrences of the pattern, occurrences per hour and more.
 
-It will be usefull to extract data like GGs completed, rinusk collected, PET's deaths, whatever that Dark Orbit shows in its logs.
+It will be usefull to extract data like GGs completed, rinusk collected, PET's deaths, whatever that DarkOrbit shows in its logs.
 
 ## Patterns
 There is no need to match all the log line, a pattern can match a substring.
@@ -33,9 +33,6 @@ _Total_ stands for the sum of the number of the pattern in all occurrences.
 * In those matches, will sum 10 + 10.000 + 5 to the total
 
 ## Notes
-While Live Logs Viewer can work on its own, Log Scrapper cannot. So, in order to use this task properly, Live Logs Viewer MUST be enabled in config and running.
-Whenever you press Stop button in this task, you will also Stop Live Logs Viewer and vice versa.
-
 The task uses RegEx to find the matches and it won't escape your input.
 This means that, if you want to match a special RegEx character, you are going to need to escape it with backslash.
 
