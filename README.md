@@ -2,7 +2,7 @@
 
 | Name | Type | Description |
 | - | - | - |
-| Remote Stats | Task | Allows you to monitor your botting session remotelly<br>[More Info](https://github.com/joseankco/DksPluginReleases/blob/main/info/RemoteStats.md) |
+| Remote Stats | Task | Allows you to monitor your botting session remotelly. Multi account allowed.<br>[More Info](https://github.com/joseankco/DksPluginReleases/blob/main/info/RemoteStats.md) |
 | Game Log Viewer | Task | Allows you to monitor DarkOrbit logs in real time |
 | Game Log Scrapper | Task | Allows you to extract patterns from DarkOrbit logs in real time<br>[More Info](https://github.com/joseankco/DksPluginReleases/blob/main/info/LogScrapper.md)|
 | Palladium Stats | Behaviour | Shows simple stats about palladium farming |
