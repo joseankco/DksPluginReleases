@@ -1,5 +1,5 @@
 # Remote Stats
-The purpose of this task is to send live stats to a server in order to be able to monitor them remotelly from our mobile phone or any other device.
+The purpose of this task is to send live stats to a server in order to be able to monitor them remotelly from our mobile phone or any other device. Now it is able to show you all your botting sessions, for that you only need to open server once, and activate the task in all DarkBot instances. Note that in order to manage all sessions, the webpage served must to reestablish the connection every time you change from one account to another. So it is not a bug when you go to the details of one account and connection is closed, it is working as intended.
 
 ## Dependencies
 `RemoteStatsServer.exe`<br>
@@ -15,7 +15,7 @@ In order to serve web content and have the same URL for your server indefinetly 
 
 ## Use
 1. Configure the task by clicking _Setup_ button in settings
-2. Steps: download the server file, select it and register in Ngrok in order to obtain your Auth Token
+2. Steps: download the server file, select it and register in Ngrok in order to obtain your Auth Token (remember to verify your ngrok account)
 3. Paste the Ngrok Auth Token in the setting. I recommend you to let the rest of fields untouched (localhost and port)
 4. Go to the top-left DarkBot menu and click _Remote Stats Server_ under _DksPlugin_ separator
 5. If the setup is correct, you should be able to click in _Start Server_
