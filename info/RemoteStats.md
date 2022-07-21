@@ -1,5 +1,5 @@
 # Remote Stats
-The purpose of this task is to send live stats to a server in order to be able to monitor them remotelly from our mobile phone or any other device. Now it is able to show you all your botting sessions, for that you only need to open server once, and activate the task in all DarkBot instances. Note that in order to manage all sessions, the webpage served must to reestablish the connection every time you change from one account to another. So it is not a bug when you go to the details of one account and connection is closed, it is working as intended.
+The purpose of this task is to send live stats to a server in order to be able to monitor them remotelly from our mobile phone or any other device. Now it is able to show you all your botting sessions, for that you only need to open server once, and activate the task in all DarkBot instances.
 
 ## Dependencies
 `RemoteStatsServer.exe`<br>
